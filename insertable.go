@@ -1,4 +1,4 @@
-package mongo
+package mgowrapper
 
 type Insertable interface {
 	CollectionName() string
